@@ -129,7 +129,7 @@ export const speaker = [
     image:
       "https://pbs.twimg.com/profile_images/674117824135081984/p5SJ33YJ_400x400.jpg",
     jobtitle: "Course Director",
-    name: "Isis García",
+    name: "Isis Garcia",
     twitter: "IsisConVelo",
     workplace: "Relo"
   },
@@ -196,7 +196,7 @@ export const conference = [
     datetime: 1564861200,
     description:
       "Tener una marca personal es fundamental para tu desarrollo profesional. Construir un portafolio de proyectos y fortalecer tu presencia online te ayudará a resaltar para ampliar tus oportunidades laborales, conseguir un mejor empleo o crear tu propio negocio.",
-    speaker: "Rubén Gómez",
+    speaker: "Ruben Gomez",
     tag: "Diseño",
     title: "¿Tienes una marca personal o solo redes sociales?"
   },
@@ -245,7 +245,7 @@ export const conference = [
     datetime: 1564848000,
     description:
       "Somos una empresa enfocada en el desarrollo de aplicaciones móviles del lado de la ingeniería y tuvimos por primera vez a una diseñadora en el equipo, al principio la veíamos como un adherido al equipo, luego empezamos un proyecto y ahora vengo a comentarles lo que pasó con la comunicación con personas que son de otras áreas.",
-    speaker: "Jorge García",
+    speaker: "Jorge Garcia",
     tag: "Git",
     title: "Git, la base de la colaboración mucho más allá del código"
   },
@@ -269,7 +269,7 @@ export const conference = [
     datetime: 1564844400,
     description:
       "Uno de los ejercicios hechos por la mayoría de los speakers profesionales, para mejorar como dan un mensaje, la premisa es fácil, no poner atención en lo que están diciendo, sino en cómo lo están diciendo y vengo a compartirles algunas técnicas que aprendí.",
-    speaker: "Isis García",
+    speaker: "Isis Garcia",
     tag: "Voz",
     title: "Cómo comunicarte en un mundo saturado de información"
   },
